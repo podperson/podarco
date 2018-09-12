@@ -1,6 +1,8 @@
 # arcolinux-iso
 
-With this github you can build your own ArcoLinux version.
+This is a Customized version of the arcolinux distro.
+
+More info to come.
 
 Check out this link for more info : 
 
